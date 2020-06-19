@@ -21,7 +21,7 @@ constant: schema__mp_dim {
 }
 
 constant: schema__om_dim {
-  value: "om_dim0011"
+  value: "om_dim0666"
   export: none
 }
 
